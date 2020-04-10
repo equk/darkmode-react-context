@@ -10,7 +10,7 @@ const ToggleTheme = () => {
 		<div className="darkmode-container">
 			<button className="toggle-darkmode" onClick={toggleDark}>
 			{darkMode ? (
-				<img src={sun} className="sun-icon" alt="moon-icon" />
+				<img src={sun} className="sun-icon" alt="sun-icon" />
 			) : (
 				<img src={moon} className="moon-icon" alt="moon-icon" />
 			)}
