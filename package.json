@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "equk <equk@users.noreply.github.com>",
+  "license": "MIT",
   "dependencies": {
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
